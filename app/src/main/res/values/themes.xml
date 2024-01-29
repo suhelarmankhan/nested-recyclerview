@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NestedRecyclerview" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#000000</item>
+
+    </style>
+
+    <style name="Theme.NestedRecyclerview" parent="Base.Theme.NestedRecyclerview" />
+</resources>
