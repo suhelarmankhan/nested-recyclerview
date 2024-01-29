@@ -335,7 +335,7 @@ public class ParentModelClass {
 <br/>
 
 
-#### Now we will code it for MainActivity.
+#### Now we will code it for MainActivity. Get images: https://github.com/suhelarmankhan/nested-recyclerview/tree/main/app/src/main/res/drawable
 ## MainActivity
 
 ```java
